@@ -1,0 +1,63 @@
+body{
+
+    background-color: rgb(229, 209, 247);
+}
+
+h1{
+
+    background-color: rgb(174, 126, 219);
+    border-radius: 12px;
+    color:white  ;
+    padding: 20px;
+
+    
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(196, 152, 236);
+    border-radius: 15px;
+
+  }
+  
+  .input-section {
+    margin-bottom: 20px;
+  }
+  
+  input[type="number"], button {
+    margin: 5px;
+    padding: 5px 10px;
+    
+  }
+  
+  button {
+    cursor: pointer;
+    background-color: rgb(174, 126, 219);
+    border: none;
+    border-radius: 20px;
+    color: white;
+  }
+
+  
+  .output-section {
+    font-size: 22px;
+    height: 200px;
+    background-color: rgb(207, 156, 255);
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex   ;
+    border-radius: 20PX;
+
+
+  }        
+
+
+  label{
+
+    background-color: rgb(207, 156, 255);
+border-radius: 20px;
+color: white;
+
+  }
